@@ -52,7 +52,7 @@
 4. On first launch, pick an AI model sized for your PC (4 to 8 GB). Then start the game, click a sim and choose **Talk**.
 
 > [!NOTE]
-> **Windows shows a blue warning?** That is normal for a small project without a paid certificate. Click **More info**, then **Run anyway**.
+> **Windows or your antivirus shows a warning?** That is normal for a small project without a paid certificate. Click **More info**, then **Run anyway**. For Avast, AVG, Norton or your browser, and to check that your file is the real one: **[Is it safe?](https://simersion.pages.dev/#safety)**
 
 ## 🖥️ What your PC needs
 
