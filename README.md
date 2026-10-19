@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BigBlackC0de/Simersion-Download/releases/latest/download/Simersion-Setup.exe"><img src="https://img.shields.io/badge/Download-Windows-8b6cff?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
+  <a href="https://github.com/AzsraProjects/Simersion-Download/releases/latest/download/Simersion-Setup.exe"><img src="https://img.shields.io/badge/Download-Windows-8b6cff?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
   &nbsp;
   <a href="https://ko-fi.com/azsra"><img src="https://img.shields.io/badge/Support-Ko--fi-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi"></a>
   &nbsp;
@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/BigBlackC0de/Simersion-Download?label=version&color=8b6cff" alt="Version">
-  <img src="https://img.shields.io/github/downloads/BigBlackC0de/Simersion-Download/total?color=e15bff" alt="Downloads">
+  <img src="https://img.shields.io/github/v/release/AzsraProjects/Simersion-Download?label=version&color=8b6cff" alt="Version">
+  <img src="https://img.shields.io/github/downloads/AzsraProjects/Simersion-Download/total?color=e15bff" alt="Downloads">
   <img src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-4fd8ff" alt="Windows 10 and 11">
   <img src="https://img.shields.io/badge/AI-100%25%20local-3ddc84" alt="100% local AI">
 </p>
@@ -46,7 +46,7 @@
   <img src="assets/install.png" alt="Install in four steps" width="900">
 </p>
 
-1. **[Download `Simersion-Setup.exe`](https://github.com/BigBlackC0de/Simersion-Download/releases/latest/download/Simersion-Setup.exe)** (about 730 MB).
+1. **[Download `Simersion-Setup.exe`](https://github.com/AzsraProjects/Simersion-Download/releases/latest/download/Simersion-Setup.exe)** (about 730 MB).
 2. Launch The Sims 4 once and quit it properly.
 3. Double-click the file. It installs the app and the mod, and turns on script mods for you.
 4. On first launch, pick an AI model sized for your PC (4 to 8 GB). Then start the game, click a sim and choose **Talk**.
@@ -101,7 +101,7 @@ Not yet. Simersion is Windows only for now.
 
 ## 🐛 Found a bug?
 
-[Open an issue](https://github.com/BigBlackC0de/Simersion-Download/issues/new/choose). The **Diagnostics** button in the Simersion app makes a zip of the logs on your Desktop: attach it to your report.
+[Open an issue](https://github.com/AzsraProjects/Simersion-Download/issues/new/choose). The **Diagnostics** button in the Simersion app makes a zip of the logs on your Desktop: attach it to your report.
 
 ## ❤️ Support
 
