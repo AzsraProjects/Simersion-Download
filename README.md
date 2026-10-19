@@ -14,6 +14,8 @@
   &nbsp;
   <a href="https://ko-fi.com/azsra"><img src="https://img.shields.io/badge/Support-Ko--fi-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi"></a>
   &nbsp;
+  <a href="https://www.patreon.com/c/simersion"><img src="https://img.shields.io/badge/Early%20access-Patreon-f9425f?style=for-the-badge&logo=patreon&logoColor=white" alt="Early access on Patreon"></a>
+  &nbsp;
   <a href="https://simersion.pages.dev"><img src="https://img.shields.io/badge/Website-simersion.pages.dev-4fd8ff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Website"></a>
 </p>
 
@@ -105,10 +107,12 @@ Not yet. Simersion is Windows only for now.
 
 ## ❤️ Support
 
-Simersion is made by one person, in their spare time. If your sims made you laugh, a coffee helps me keep going and add new things.
+Simersion is made by one person, in their spare time. If your sims made you laugh, a coffee on Ko-fi or a membership on Patreon helps me keep going and add new things. On Patreon (5 €/month), you get every new version 14 days before everyone else.
 
 <p align="center">
   <a href="https://ko-fi.com/azsra"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Ko--fi-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"></a>
+  &nbsp;
+  <a href="https://www.patreon.com/c/simersion"><img src="https://img.shields.io/badge/Join-Patreon-f9425f?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"></a>
 </p>
 
 ---
