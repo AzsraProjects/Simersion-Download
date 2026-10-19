@@ -1,0 +1,26 @@
+name: Bug report
+description: Something does not work in Simersion
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Simersion version
+      placeholder: "0.7.1"
+  - type: input
+    id: gpu
+    attributes:
+      label: Graphics card
+      placeholder: "e.g. RTX 3060 12 GB"
+  - type: textarea
+    id: logs
+    attributes:
+      label: Diagnostics zip
+      description: In the Simersion app, click Diagnostics. It makes a zip on your Desktop. Drag it here.
