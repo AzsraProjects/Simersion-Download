@@ -37,10 +37,17 @@
 ## 💬 What it looks like
 
 <p align="center">
-  <img src="assets/demo.png" alt="Example conversation" width="720">
+  <img src="assets/conversation.jpg" alt="A conversation with Rita Coombes in The Sims 4" width="820">
 </p>
+<p align="center"><sub>You write, your sim answers as themselves. Every exchange moves friendship and romance.</sub></p>
 
-<p align="center"><sub>An illustrated example. Every conversation is different.</sub></p>
+<table>
+  <tr>
+    <td width="33%" align="center"><img src="assets/character.jpg" alt="Character sheet"><br><sub><b>Their character</b>: traits, and how boldly they speak.</sub></td>
+    <td width="33%" align="center"><img src="assets/story.jpg" alt="Memories"><br><sub><b>Their story</b>: every conversation leaves a memory.</sub></td>
+    <td width="33%" align="center"><img src="assets/life.jpg" alt="Life, day by day"><br><sub><b>Their life</b>: what they went through, day by day.</sub></td>
+  </tr>
+</table>
 
 ## 📥 Install
 
