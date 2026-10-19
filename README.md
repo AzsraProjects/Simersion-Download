@@ -5,7 +5,7 @@
 <h3 align="center">Talk to your Sims. For real.</h3>
 
 <p align="center">
-  A free mod for The Sims 4. Click a sim, write to them, and they answer as themselves:<br>
+  A mod for The Sims 4. Click a sim, write to them, and they answer as themselves:<br>
   their traits, their mood, their memories of you. They can agree, refuse, or lie.
 </p>
 
@@ -64,16 +64,10 @@ The AI runs on your own graphics card. That is why it is private, and why it nee
 | **Game** | The Sims 4, up to date. No pack required. |
 | **Graphics card** | 8 GB of video memory recommended. 6 GB works with the lighter model. |
 | **Memory** | 16 GB of RAM recommended |
-| **Disk space** | About 10 GB free (app + AI model) |
+| **Disk space** | About 10 GB available (app + AI model) |
 | **Internet** | Only for the download. Then everything works offline. |
 
 ## ❓ Questions
-
-<details>
-<summary><b>Is it free?</b></summary>
-<br>
-Yes. No account, no subscription, no ads. If you like it, you can support the project on <a href="https://ko-fi.com/azsra">Ko-fi</a>.
-</details>
 
 <details>
 <summary><b>Are my conversations sent somewhere?</b></summary>
@@ -111,7 +105,7 @@ Not yet. Simersion is Windows only for now.
 
 ## ❤️ Support
 
-Simersion is made by one person, on free time. If your sims made you laugh, a coffee helps me keep going and add new things.
+Simersion is made by one person, in their spare time. If your sims made you laugh, a coffee helps me keep going and add new things.
 
 <p align="center">
   <a href="https://ko-fi.com/azsra"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Ko--fi-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"></a>
@@ -121,5 +115,5 @@ Simersion is made by one person, on free time. If your sims made you laugh, a co
 
 <p align="center"><sub>
 This repository only hosts the installer.<br>
-Simersion is a free fan-made mod. It is not made, endorsed or supported by Electronic Arts or Maxis. The Sims is a trademark of Electronic Arts Inc.
+Simersion is a fan-made mod. It is not made, endorsed or supported by Electronic Arts or Maxis. The Sims is a trademark of Electronic Arts Inc.
 </sub></p>
