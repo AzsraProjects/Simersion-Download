@@ -28,20 +28,9 @@
 
 ## ✨ Sims with a mind of their own
 
-The AI writes the words. The decisions come from the game: friendship, mood, needs, traits and your shared past.
-
 <p align="center">
   <img src="assets/features.png" alt="Features" width="900">
 </p>
-
-| | |
-|---|---|
-| 💬 **A real conversation** | A chat window opens over the game. Your sim answers in their own voice. |
-| 🧠 **A memory that lasts** | Every conversation is remembered, on both sides. Ask "do you remember…?" and they find what really happened. |
-| ✋ **A no that means no** | A tired sim, a recent fight, a stranger: they can refuse. Asking again with other words changes nothing. |
-| 🤫 **Secrets and lies** | A sim can dodge a subject, keep a secret, or lie about last night. And sometimes, they gossip. |
-| 👥 **Up to four in a scene** | Invite up to four sims into the same conversation. Each one answers in turn. |
-| 🍳 **They act in the game** | Ask for a meal and the sim actually goes to cook it. |
 
 ## 💬 What it looks like
 
