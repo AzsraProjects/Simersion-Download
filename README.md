@@ -7,7 +7,7 @@ Website: **https://simersion.pages.dev**
 This repository only hosts the installer. Download the latest version from
 [Releases](https://github.com/BigBlackC0de/Simersion-Download/releases/latest).
 
-Simersion is free and always will be. If you like it, you can support it on
+Simersion is free. If you like it, you can support it on
 [Ko-fi](https://ko-fi.com/azsra).
 
 Simersion is a free fan-made mod. It is not made, endorsed or supported by
